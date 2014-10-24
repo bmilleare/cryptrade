@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pulsecat/cryptrade.git"
+    "url": "https://github.com/shadww/cryptrade.git"
   },
   "keywords": [
     "nodejs",
@@ -35,7 +35,7 @@
     "talib": "~0.2.12",
     "iced-coffee-script": "~1.6.3-g",
     "coffee-script": "~1.6.3",
-    "bitstamp": "git+https://github.com/pulsecat/bitstamp.git#v0.0.11",
+    "bitstamp": "git+https://github.com/shadww/bitstamp.git#v0.0.13",
     "btc-e": "0.0.11",
     "cexio": "0.0.1"
   }
